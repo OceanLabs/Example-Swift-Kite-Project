@@ -1,0 +1,77 @@
+PODS:
+  - ApplePayStubs (0.2)
+  - CSStickyHeaderFlowLayout (0.2.10)
+  - DACircularProgress (2.3.1)
+  - ios-qr-encoder (1.0.4)
+  - Kite-Print-SDK (5.0.6):
+    - CSStickyHeaderFlowLayout (~> 0.2.4)
+    - DACircularProgress
+    - ios-qr-encoder (~> 1.0.4)
+    - Kite-Print-SDK/Lite (= 5.0.6)
+    - MPFlipViewController (~> 0.0.2)
+    - SDWebImage (~> 3.7.2)
+    - SkyLab (~> 1.0.0)
+    - SVProgressHUD (~> 1.1.3)
+    - TSMarkdownParser (~> 1.0.17)
+    - UICKeyChainStore (~> 2.0.4)
+    - UIColor-HexString
+  - Kite-Print-SDK/ApplePay (5.0.6):
+    - ApplePayStubs (= 0.2)
+    - CSStickyHeaderFlowLayout (~> 0.2.4)
+    - DACircularProgress
+    - ios-qr-encoder (~> 1.0.4)
+    - MPFlipViewController (~> 0.0.2)
+    - SDWebImage (~> 3.7.2)
+    - SkyLab (~> 1.0.0)
+    - Stripe (= 5.1.4)
+    - Stripe/ApplePay (= 5.1.4)
+    - SVProgressHUD (~> 1.1.3)
+    - TSMarkdownParser (~> 1.0.17)
+    - UICKeyChainStore (~> 2.0.4)
+    - UIColor-HexString
+  - Kite-Print-SDK/Lite (5.0.6):
+    - CSStickyHeaderFlowLayout (~> 0.2.4)
+    - DACircularProgress
+    - ios-qr-encoder (~> 1.0.4)
+    - MPFlipViewController (~> 0.0.2)
+    - SDWebImage (~> 3.7.2)
+    - SkyLab (~> 1.0.0)
+    - SVProgressHUD (~> 1.1.3)
+    - TSMarkdownParser (~> 1.0.17)
+    - UICKeyChainStore (~> 2.0.4)
+    - UIColor-HexString
+  - MPFlipViewController (0.0.2)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SkyLab (1.0.0)
+  - Stripe (5.1.4):
+    - Stripe/Core (= 5.1.4)
+  - Stripe/ApplePay (5.1.4):
+    - Stripe/Core
+  - Stripe/Core (5.1.4)
+  - SVProgressHUD (1.1.3)
+  - TSMarkdownParser (1.0.20)
+  - UICKeyChainStore (2.0.7)
+  - UIColor-HexString (1.3.0)
+
+DEPENDENCIES:
+  - Kite-Print-SDK (= 5.0.6)
+  - Kite-Print-SDK/ApplePay (= 5.0.6)
+
+SPEC CHECKSUMS:
+  ApplePayStubs: 5dd63c36527d1117b2045939fb5b6581b4815433
+  CSStickyHeaderFlowLayout: 5366582779d8b7c9ba9b9cc729c218cc23888776
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  ios-qr-encoder: f5f654b3d8921caee92564f8c5698b7a699f9dc3
+  Kite-Print-SDK: 582020b6cee2cd45933f8234a1c3d9bdbe2f32c5
+  MPFlipViewController: 86caa6203ca9d35af23cc6b4e1bcf53e53333770
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SkyLab: 01d9559bbab2183e54e67dc7a8a12a22b0a4be99
+  Stripe: 6864be95b09092f05526bc2e0a50804bc556aa0d
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TSMarkdownParser: 5ef8a617d39f92812860e0a3544348de33abe549
+  UICKeyChainStore: 696cd35083f7c8fb5e201d909b7e6aea6b478575
+  UIColor-HexString: fadc2e1389db19147ac99dee92222d3bd8bfec4a
+
+COCOAPODS: 0.39.0

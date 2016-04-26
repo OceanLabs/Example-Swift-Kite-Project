@@ -16,6 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        OLKitePrintSDK.setAPIKey("YOUR_TEST_API_KEY", withEnvironment: kOLKitePrintSDKEnvironmentSandbox)
+        //OLKitePrintSDK.setApplePayMerchantID("YOUR_MERCHANT_ID")
+        //OLKitePrintSDK.setApplePayPayToString("Company Name")
+
         return true
     }
 
